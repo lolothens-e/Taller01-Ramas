@@ -4,4 +4,4 @@ Cambios Efectuados en el Taller
 
 ![Cambios Efectuados en rama Titulo](./img.png "Rama Titulo")
 
-![Cambios Efectuados en rama artista](./img3.png "Rama artista")
+![Cambios Efectuados en rama artista](./img3.PNG "Rama artista")
