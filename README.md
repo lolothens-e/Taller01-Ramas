@@ -1,7 +1,8 @@
-# Taller 1 - Ramas
+#Taller 1 - Ramas
 
-Cambios Efectuados en el Taller:
-
-Titulo: Cambio de titulo "Radio XYZ TopMusical".
+Cambios Efectuados en el Taller
 
 ![Cambios Efectuados en rama Titulo](./img.png "Rama Titulo")
+
+![Cambios Efectuados en rama Color](./img2.png "Rama Color")
+
